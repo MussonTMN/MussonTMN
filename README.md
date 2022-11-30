@@ -1,4 +1,4 @@
-## Hi there 👋 I am Musikhin Yury, and i am frontend developer.
+## Hi there 👋 I am Musikhin Yury, and i am a frontend developer.
 
 ### Technologies 👨‍💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
